@@ -8,7 +8,7 @@ Crowd levels are application estimates based on user reports and system logic. T
 
 ## Product Scope
 
-### Phase 1 Scope
+### Phase 1 Scope (IN ROUTE)
 
 - Search and browse GoodLife Fitness clubs in Calgary.
 - View club details, location information, and current estimated crowd status.
